@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string-array name="spinner_options">
+        <item>Android</item>
+        <item>Compilers</item>
+    </string-array>
 </resources>
